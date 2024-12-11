@@ -1,0 +1,31 @@
+{
+  "id": "ef715534-ac69-451f-a0e9-ae90fabe7104",
+  "name": "Aardvark Labs AppSource Customizations",
+  "publisher": "Aardvark Labs",
+  "brief": "Aardvark Labs AppSource Customization.",
+  "description": "Customizations provided by Aardvark Labs",
+  "version": "20.0.0.0",
+  "privacyStatement": "http://aardvarklabs.blog",
+  "EULA": "http://aardvarklabs.blog",
+  "help": "http://aardvarklabs.blog",
+  "contextSensitiveHelpUrl": "http://aardvarklabs.blog",
+  "url": "http://aardvarklabs.blog",
+  "logo": "./AardvarkLabsIcon.jpg",
+  "supportedLocales": ["en-US"],
+  "features": [ "TranslationFile", "GenerateCaptions" ],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "20.0.0.0",
+  "application": "20.0.0.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true, 
+    "allowDownloadingSource": true, 
+    "includeSourceInSymbolFile": false
+  },
+  "target": "Cloud",
+  "idRanges": [
+    {"from": 50000, "to": 59999}
+  ],
+  "runtime":"14.0"
+}
+
